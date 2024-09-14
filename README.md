@@ -5,7 +5,7 @@ This project is a simple recommender system built as a practice exercise to deep
 ## Disclaimer!!!
 
 The dataset used in this project is not included in the repository due to its large size (which was very difficult to deal with). You can download the dataset from the following link:  
-[Manga, Manhwa and Manhua Dataset](https://duckduckgo.com)
+[Manga, Manhwa and Manhua Dataset](https://www.kaggle.com/datasets/victorsoeiro/manga-manhwa-and-manhua-dataset/data)
 
 ## Overview
 
